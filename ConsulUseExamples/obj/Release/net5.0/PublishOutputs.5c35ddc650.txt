@@ -1,0 +1,13 @@
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\ConsulUseExamples.exe
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\ConsulUseExamples.dll
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\ConsulUseExamples.deps.json
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\ConsulUseExamples.runtimeconfig.json
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\ConsulUseExamples.pdb
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\Consul.dll
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Study\ConsulUseExamples\ConsulUseExamples\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
